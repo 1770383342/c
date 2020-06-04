@@ -34,9 +34,9 @@ int main(void)
 	int c[5];
 	int m;
 	printf("\n给数组的m的元素赋值 m = ");
-	scanf_s("%d", &m);
+	scanf("%d", &m);
 	printf("值为：");
-	scanf_s("%d", &c[m]);
+	scanf("%d", &c[m]);
 	printf("c[%d] = %d\n", m,c[m]);
 	for ( i = 0; i < 5; i++)
 	{

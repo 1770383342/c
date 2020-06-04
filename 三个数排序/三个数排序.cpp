@@ -5,7 +5,7 @@ int main(void)
 	int i, j, k;
 	int t;
 	printf("请输入三个整数来进行排序,数之间用空格隔开\n\n");
-	scanf_s("%d %d %d", &i, &j, &k);
+	scanf("%d %d %d", &i, &j, &k);
 
 	if (i < j)
 	{
