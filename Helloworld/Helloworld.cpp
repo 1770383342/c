@@ -1,9 +1,9 @@
-Ôªø
+
 #include <stdio.h>
 
 int main()
 {
-    printf("helloworld!\n");
+    printf("¡Œ«Ôœº «pig\n");
 
     return(0);
 }
