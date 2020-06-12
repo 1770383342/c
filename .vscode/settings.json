@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",//默认打开cmd终端
+    "terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],//将cmd默认编码改为utf8
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

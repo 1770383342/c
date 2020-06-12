@@ -3,8 +3,8 @@
 
 int main()
 {
-    printf("ÁÎÇïÏ¼ÊÇpig\n");
+    printf("å»–ç§‹éœæ˜¯pig\n");
 
-    return(0);
+    return 0;
 }
 
